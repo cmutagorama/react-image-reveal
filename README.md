@@ -1,11 +1,11 @@
-# Image reveal react app
+# Image reveal app
 
 This simple is a very simple react app combined with GSAP to achieve image reveal effect.
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm install`
+`npm install`
 
-### `npm start`
+`npm start`
